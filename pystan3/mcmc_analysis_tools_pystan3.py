@@ -19,7 +19,7 @@ import textwrap
 import inspect
 import re
 
-import stan
+#import stan
 
 light = "#DCBCBC"
 light_highlight = "#C79999"
